@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jason_bohne
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -99,10 +99,10 @@ author:
   github           : "jasonbohne123"
   google_plus      :
   keybase          :
-  instagram        : 'jasonbohne1'
+  instagram        : "jasonbohne1"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :'https://www.linkedin.com/in/jasonbohne822/'
+  linkedin         :"https://www.linkedin.com/in/jasonbohne822/"
   orcid            : 
   pinterest        :
   soundcloud       :
