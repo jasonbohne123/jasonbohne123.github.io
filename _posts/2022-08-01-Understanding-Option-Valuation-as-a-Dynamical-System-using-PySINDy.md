@@ -1,37 +1,20 @@
-[![Jason Bohne](https://miro.medium.com/fit/c/96/96/1*SxVHJmLvppj_NuMDYfcevQ.jpeg)
-
-](https://medium.com/@jbohne822?source=post_page-----3c5aef78effd--------------------------------)[Jason Bohne](https://medium.com/@jbohne822?source=post_page-----3c5aef78effd--------------------------------)Follow
-
-Aug 2
-
-·5 min read
+![](https://miro.medium.com/max/1020/0*3FIrLr0vV4HQkodl.jpg)
 
 Understanding Option Valuation as a Dynamical System using PySINDy
 ==================================================================
 
-![](https://miro.medium.com/max/1020/0*3FIrLr0vV4HQkodl.jpg)Pixabay
+![](https://miro.medium.com/max/1020/0*3FIrLr0vV4HQkodl.jpg)
 
 _TL;DR: By interpreting option valuation as a dynamical system, we can estimate the governing equations of fair value and test the effectiveness of the Black Scholes equation off publicly available option data._
 
-**Github** with reproducible code is accessible below.
-
-[
-
-GitHub - jasonbohne123/Option\_DS: Understanding Option Valuation as a Dynamical System using…
-----------------------------------------------------------------------------------------------
-
-### Understanding Option Valuation as a Dynamical System using PySINDy
-
-github.com
-
-](https://github.com/jasonbohne123/Option_DS)
 
 Background
 ==========
 
 If you are familiar with options, you probably have heard of the Black Scholes equation. Originally discovered in 1973 by Myron Scholes and Fisher Black, the Black Scholes equation is a partial differential equation that relates the price of a European option on an underlying to the underlying price, time to expiration, volatility, and the risk-free rate.
 
-![](https://miro.medium.com/max/1038/0*2KjWDaDnmfjjiadH.png)Black Scholes Partial Differential Equation
+![](https://miro.medium.com/max/1038/0*2KjWDaDnmfjjiadH.png)
+Black Scholes Partial Differential Equation
 
 One interpretation of the above equation can be taken from the perspective of dynamical systems. Viewing option valuation as a dynamical system, the Black-Scholes equation is then the equation that governs the fair value. As differentiability in space and time is assumed, small perturbations in the observed data should have a small effect on the resulting fair value.
 
@@ -44,22 +27,14 @@ Applying PySINDy
 
 One way we can test the effectiveness of the Black-Scholes is to sample option market data and then fit a differential equation between our observed data (underlying price and time to expiration) and the quantity of interest (market price). While one could brute force this by approximating derivatives using finite difference methods and solving a least squares system, PySINDy is a python package designed to do exactly such.
 
-[
-
-PySINDy Examples - pysindy 1.8.dev110+gd0d96f4 documentation
-------------------------------------------------------------
-
-### We recommend that people new to SINDy start here. We give a gentle introduction to the SINDy method and how different…
-
-pysindy.readthedocs.io
-
-](https://pysindy.readthedocs.io/en/latest/examples/index.html#full-table-of-contents)
 
 Given a set of observed data, PySINDy estimates the most likely governing equation of the feature set across time. For each feature, the governing equation can be expressed on a basis of polynomials or trigonometric functions. In either case, the optimal governing equation for a feature might be zero, indicating that the specific feature’s best estimate across time is constant.
 
 For our problem, we choose the basis for underlying price to be polynomials up to degree 2. Assuming the governing equation does not have a drift process, this gives us up to 8 distinct differential operators for underlying price to include within our regression equation.
 
-Initialize PDE constraints for differential operators![](https://miro.medium.com/max/1400/0*2PzdV6SWNUlQNUKa.png)Differential operators on underlying price included in our model
+Initialize PDE constraints for differential operators![](https://miro.medium.com/max/1400/0*2PzdV6SWNUlQNUKa.png)
+
+Differential operators on underlying price included in our model
 
 In order to solve the linear system of basis functions above, PySINDy must first numerically estimate the derivatives of the feature set. You do have the flexibility to adjust the method of differentiation (continuous vs discrete) however the default finite difference method is sufficient for most applications. If your data tends to be quite noisy, it might help to smooth the data via a Savitzky-Golay filter before numerically differentiating as shown below. More can be found [here.](https://pysindy.readthedocs.io/en/stable/examples/1_feature_overview.html#differentiation-options)
 
@@ -86,7 +61,7 @@ To test the effectiveness of the Black-Scholes in practice, I sampled historical
 
 For fetching the actual data, [robinstocks](https://pypi.org/project/robin-stocks/) is a quick, easy-to-use python package that allows you to access market data via your Robinhood account.
 
-![](https://miro.medium.com/max/1400/0*p4E-AaQJXlMH79B4.png)SPY $400 Call Dataset
+![](https://miro.medium.com/max/1400/0*p4E-AaQJXlMH79B4.png)
 
 Now that we have formatted the data, we can solve for the best-fitted model using both the LASSO and LARS optimization method.
 
@@ -119,43 +94,3 @@ _Original PySINDy Paper:_
 
 [https://www.pnas.org/doi/pdf/10.1073/pnas.1517384113](https://www.pnas.org/doi/pdf/10.1073/pnas.1517384113)
 
-_PySINDy Documentation:_
-
-[
-
-PySINDy - pysindy 1.8.dev110+gd0d96f4 documentation
----------------------------------------------------
-
-### PySINDy is a sparse regression package with several implementations for the Sparse Identification of Nonlinear…
-
-pysindy.readthedocs.io
-
-](https://pysindy.readthedocs.io/en/latest/index.html)
-
-_CVXPY:_
-
-[
-
-CVXPY
------
-
-### Convex optimization, for everyone. We are building a CVXPY community on Discord. Join the conversation! CVXPY is an…
-
-www.cvxpy.org
-
-](https://www.cvxpy.org/)
-
-_Scikit-Learn_
-
-[
-
-scikit-learn
-------------
-
-### "We use scikit-learn to support leading-edge basic research \[...\]" "I think it's the most well-designed ML package I've…
-
-scikit-learn.org
-
-](https://scikit-learn.org/stable/index.html)
-
-Feel free to reach out to me on [Twitter](https://twitter.com/jason_bohne) and [LinkedIn](https://www.linkedin.com/in/jasonbohne822/) with questions, suggestions, or interest in collaboration.
