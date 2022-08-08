@@ -1,6 +1,4 @@
-
-
-![](https://miro.medium.com/max/1400/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/airport-bank-board-business-534216/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+![](https://miro.medium.com/max/1400/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)(https://www.pexels.com/photo/airport-bank-board-business-534216/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 Options are contracts that give the holder the right to exercise a claim at a specific price and time. What differentiates options from standard future contracts is that the holder is not under an obligation to exercise. Most options contracts available to retail traders today are of the American style.
 
