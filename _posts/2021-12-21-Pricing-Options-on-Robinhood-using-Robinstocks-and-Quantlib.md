@@ -1,8 +1,4 @@
-![](https://miro.medium.com/max/1400/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)
 
-
-Pricing Options on Robinhood using Robinstocks and QuantLib
-===========================================================
 
 ![](https://miro.medium.com/max/1400/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/airport-bank-board-business-534216/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
