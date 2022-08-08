@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/1400/1*pJTKo5wO4iuJJ2fWQGAMXA.jpeg)
+![](https://miro.medium.com/max/1020/1*pJTKo5wO4iuJJ2fWQGAMXA.jpeg)
 
 Options are publicly traded financial instruments with a specific underlying asset attached to them, commonly equities. The holder of the option has the right to buy or sell the underlying asset at the strike price of the option. In addition to strikes, each option has an expiration which is the final date a holder can exercise the contract on. The expiration terms can also differ between contracts; American options allow the holder to exercise their right anytime before the expiration date while European options only allow the holder to exercise on the expiration date.
 
