@@ -1,16 +1,4 @@
-[![Jason Bohne](https://miro.medium.com/fit/c/96/96/1*SxVHJmLvppj_NuMDYfcevQ.jpeg)
 
-](https://medium.com/@jbohne822?source=post_page-----7bc765088ced--------------------------------)[Jason Bohne](https://medium.com/@jbohne822?source=post_page-----7bc765088ced--------------------------------)[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fc6dee2fb69cc&operation=register&redirect=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fpricing-options-on-robinhood-using-robinstocks-and-quantlib-7bc765088ced&user=Jason+Bohne&userId=c6dee2fb69cc&source=post_page-c6dee2fb69cc----7bc765088ced---------------------follow_byline-----------)
-
-Dec 20, 2021
-
-·5 min read
-
-[
-
-Save
-
-](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7bc765088ced&operation=register&redirect=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fpricing-options-on-robinhood-using-robinstocks-and-quantlib-7bc765088ced&source=--------------------------bookmark_header-----------)
 
 Pricing Options on Robinhood using Robinstocks and QuantLib
 ===========================================================
@@ -48,38 +36,18 @@ To start off, I imported the package and connected it to my Robinhood account. T
 
 For this example, we will price American options with two approximation methods; the [**Barone-Adesi-Whaley Method**](https://www.deriscope.com/docs/Barone_Adesi_Whaley_1987.pdf) and the [**Bjerksund-Stensland Method**](https://www.sciencedirect.com/science/article/abs/pii/095652219390009H)**.** The solution to the [**Black-Scholes PDE**](https://www.journals.uchicago.edu/doi/10.1086/260062) cannot be applied from a theoretical perspective, however, it will also be included as a comparison.
 
-For a detailed explanation of these models and their formulation see the article below:
-
-[
-
-Analytical Approximations for American Options
-----------------------------------------------
-
-### Options are publicly traded financial instruments with a specific underlying asset attached to them, commonly equities…
-
-medium.com
-
-](https://medium.com/@jbohne822/analytical-approximations-for-american-options-bdf3ef984a4a)
 
 **Implementation**
 ------------------
 
 Now that we have discussed our game plan for pricing American options, it’s time for implementation. As always, the full code can be found on my [GitHub.](https://github.com/jasonbohne123/Option_Pricing_Robinhood)
 
-[
 
-GitHub - jasonbohne123/Option\_Pricing\_Robinhood
--------------------------------------------------
-
-### Welcome! This program allows you to compute the theoretical value of options you hold in your Robinhood Portfolio using…
-
-github.com
-
-](https://github.com/jasonbohne123/Option_Pricing_Robinhood)
 
 To run the program is quite simple. Enter `python main.py` in your terminal and follow the prompts that appear on-screen. After authenticating your Robinhood account, you will be able to see all the current options in your portfolio. From here, you can price any options using different pricing engines that approximate the true value. See an example below.
 
-![](https://miro.medium.com/max/1400/1*e6E5nd-E0CqProywHwxFPA.png)Example output on a selection of AAPL call options of various strikes
+![](https://miro.medium.com/max/1400/1*e6E5nd-E0CqProywHwxFPA.png)
+Example output on a selection of AAPL call options of various strikes
 
 Most of the code in `main.py` consists of formatting our data frame and setting up the necessary inputs to calculate the theoretical value in `pricer.py`. Behind the scenes of our pricing script is much more interesting, however.
 
@@ -106,18 +74,6 @@ All in all, here is the final output for a collection of call options on `AAPL`
 
 ![](https://miro.medium.com/max/1400/1*vQ-Yxdd3LwOl3WcLPaQ26w.png)Note the theoretical vs market prices using Black-Scholes
 
-**GitHub:**
-
-[
-
-GitHub - jasonbohne123/Option\_Pricing\_Robinhood
--------------------------------------------------
-
-### Welcome! This program allows you to compute the theoretical value of options you hold in your Robinhood Portfolio using…
-
-github.com
-
-](https://github.com/jasonbohne123/Option_Pricing_Robinhood)
 
 If you liked this article and want to receive updates on future articles make sure to follow me on [**Twitter**](https://twitter.com/jason_bohne)**!**
 
