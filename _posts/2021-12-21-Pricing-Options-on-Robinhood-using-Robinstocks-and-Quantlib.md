@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/1020/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)
+![](https://miro.medium.com/1020/1020/1*xsW82f_F5lUdf34Wm1a4FA.jpeg)
 
 Options are contracts that give the holder the right to exercise a claim at a specific price and time. What differentiates options from standard future contracts is that the holder is not under an obligation to exercise. Most options contracts available to retail traders today are of the American style.
 
