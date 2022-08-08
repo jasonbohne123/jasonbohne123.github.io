@@ -1,5 +1,3 @@
-![](https://miro.medium.com/max/1020/0*3FIrLr0vV4HQkodl.jpg)
-
 Understanding Option Valuation as a Dynamical System using PySINDy
 ==================================================================
 
