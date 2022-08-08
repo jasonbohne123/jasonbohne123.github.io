@@ -1,21 +1,16 @@
-[![Jason Bohne](https://miro.medium.com/fit/c/96/96/1*SxVHJmLvppj_NuMDYfcevQ.jpeg)
 
-](https://medium.com/@jbohne822?source=post_page-----bdf3ef984a4a--------------------------------)[Jason Bohne](https://medium.com/@jbohne822?source=post_page-----bdf3ef984a4a--------------------------------)Follow
-
-Dec 20, 2021
-
-·4 min read
 
 Analytical Approximations for American Options
 ==============================================
 
-![](https://miro.medium.com/max/1400/1*pJTKo5wO4iuJJ2fWQGAMXA.jpeg)[https://pixabay.com/images/id-2880199/](https://pixabay.com/images/id-2880199/)
+![](https://miro.medium.com/max/1400/1*pJTKo5wO4iuJJ2fWQGAMXA.jpeg)[https://pixabay.com/images/id-2880199/]
 
 Options are publicly traded financial instruments with a specific underlying asset attached to them, commonly equities. The holder of the option has the right to buy or sell the underlying asset at the strike price of the option. In addition to strikes, each option has an expiration which is the final date a holder can exercise the contract on. The expiration terms can also differ between contracts; American options allow the holder to exercise their right anytime before the expiration date while European options only allow the holder to exercise on the expiration date.
 
 Since the 1973 paper, “[**The Pricing of Options and Corporate Liabilities**](https://www.journals.uchicago.edu/doi/10.1086/260062)” by Fischer Black and Myron Scholes, analytical closed-form solutions for European style contracts have been known. However, the solution to the **Black-Scholes PDE** cannot be extended to American options due to the subtle yet significant difference in their structures.
 
-![](https://miro.medium.com/max/1400/1*pug7TSAEtkMWRpzbWimWlA.png)Black-Scholes Partial Differential Equation
+![](https://miro.medium.com/max/1400/1*pug7TSAEtkMWRpzbWimWlA.png)
+
 
 The key difference is that American options can be **exercised anytime between issuance and expiration**. This makes the expected value of the American contract at expiration dependent on the path between now and then, as the holder can exercise prematurely.
 
@@ -25,19 +20,20 @@ As the no-arbitrage argument is not satisfied, approximations of the solution to
 
 The Barone-Adesi-Whaley Method is formulated from the fact the B.S. PDE applies to **both European and American Options**. Given the PDE holds for the total value of the option, the argument is that it must also hold for the early exercise premium. From here a **Quadratic Approximation** of the American contract, C(S, T), is derived from the corresponding European contract, c(S, T), and our approximation term.
 
-![](https://miro.medium.com/max/1400/1*SSGrIKDbSaOmVaamdTvhtQ.png)Quadratic Approximation of the American Call![](https://miro.medium.com/max/1370/1*iGjtsBPLf9VPnq6ku8sefQ.png)Approximation Term
+![](https://miro.medium.com/max/1400/1*SSGrIKDbSaOmVaamdTvhtQ.png)
+![](https://miro.medium.com/max/1370/1*iGjtsBPLf9VPnq6ku8sefQ.png)
 
 With the spot price S, the critical spot price S ∗ the time to expiration T, and exercisable proceeds S − X.
 
 Another popular approximation is the  [**Bjerksund-Stensland Method**](https://www.sciencedirect.com/science/article/abs/pii/095652219390009H) which proposes a class of **general exercise strategies** for American options specified by a trigger price.
 
-![](https://miro.medium.com/max/1400/1*8ccBCW6h6Gze-2rfaGJqiQ.png)Approximation of American Call given a General Exercise Strategy
+![](https://miro.medium.com/max/1400/1*8ccBCW6h6Gze-2rfaGJqiQ.png)
 
 Where S is the spot price, T is the time to expiration, K is the strike price, X is the trigger price, σ is underlying volatility, α(X) and β (x) are functions of interest rate, cost to carry, underlying volatility, and trigger price.
 
 One way to calculate the trigger price is with a time-weighted average between **infinite lived and an infinitesimal lived** American option, shown below.
 
-![](https://miro.medium.com/max/1134/1*7sk1ciscMbtYMWJEgWOCDw.png)Time Weighted Average Trigger Price
+![](https://miro.medium.com/max/1134/1*7sk1ciscMbtYMWJEgWOCDw.png)
 
 These methods are just the tip of the iceberg. In addition to analytical approximations, numerical methods are often utilized. Both lattices, in the form of binomial trees, and simulations such as Monte Carlo, are used to compute the present value of the contract. From an optimization perspective solving for the present value of an American option is an optimal stopping problem as at each timestep we need to determine whether holding or exercising is the optimal choice.
 
