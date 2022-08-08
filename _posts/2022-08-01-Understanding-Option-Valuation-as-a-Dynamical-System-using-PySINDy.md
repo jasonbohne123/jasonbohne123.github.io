@@ -1,5 +1,3 @@
-
-
 ![](https://miro.medium.com/max/1020/0*3FIrLr0vV4HQkodl.jpg)
 
 _TL;DR: By interpreting option valuation as a dynamical system, we can estimate the governing equations of fair value and test the effectiveness of the Black Scholes equation off publicly available option data._
