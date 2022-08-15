@@ -16,22 +16,22 @@ Education
 _**Ph.D.,** **Applied Mathematics and Statistics**_\
 _**Stony Brook University**_
 
-_Relevant Coursework:_\
+Relevant Coursework:\
 Probability, Portfolio Optimization, Computational Finance, Stochastic
 Calculus, Mathematics of High Frequency Finance (Matrix Analysis),
 Machine Learning in Quantitative Finance
 
-_Activities:_ Information Geometry and Machine Learning Seminar,
+Activities: Information Geometry and Machine Learning Seminar,
 Computational Geometry Research Group
 
 _**B.Sc.,** **Mathematics**_\
 _**University of Illinois at Chicago**_
 
-_Undergraduate Project:_ [An Analysis of Derivative Pricing
-Methods](https://github.com/jasonbohne123/Derivative_Pricing_Methods)\
+Undergraduate Project: [An Analysis of Derivative Pricing
+Methods](https://github.com/jasonbohne123/Derivative_Pricing_Methods)
 
 
-_Relevant Coursework:_\
+Relevant Coursework:\
 Statistics, Linear Algebra, Numerical Analysis, Applied Differential
 Equations, Game Theory, Real and Complex Analysis, Combinatorics,
 Abstract Algebra
@@ -89,7 +89,6 @@ Honors, Awards & Scholarships
 =============================
 
 Victor Twersky Scholarship
-
 Yeuk-Lam Yau-Leung Memorial Scholarship
 
 
