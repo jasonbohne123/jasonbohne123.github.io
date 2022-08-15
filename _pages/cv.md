@@ -88,7 +88,7 @@ market factors.
 Honors, Awards & Scholarships
 =============================
 
-Victor Twersky Scholarship
+Victor Twersky Scholarship\
 Yeuk-Lam Yau-Leung Memorial Scholarship
 
 
