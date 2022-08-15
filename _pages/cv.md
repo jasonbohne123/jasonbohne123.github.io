@@ -25,7 +25,7 @@ _Activities:_ Information Geometry and Machine Learning Seminar,
 Computational Geometry Research Group
 
 _**B.Sc.,** **Mathematics**_\
-_**University of Illinois at Chicago **_
+_**University of Illinois at Chicago**_
 
 _Undergraduate Project:_ [An Analysis of Derivative Pricing
 Methods](https://github.com/jasonbohne123/Derivative_Pricing_Methods)\
