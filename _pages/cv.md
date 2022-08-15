@@ -55,7 +55,7 @@ docker.
 
 
 _**Alpaca Securities**_\
-Position: [Content Research] (https://alpaca.markets/learn/)\
+Position: [Content Research](https://alpaca.markets/learn/)\
 Project: API tutorials on algorithmic trading and market data.\
 Project: Community events that attracted over 250 attendees.
 
