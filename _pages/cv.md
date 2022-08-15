@@ -55,7 +55,7 @@ docker.
 
 
 _**Alpaca Securities**_\
-Position: Content Research\
+Position: [Content Research] (https://alpaca.markets/learn/)\
 Project: API tutorials on algorithmic trading and market data.\
 Project: Community events that attracted over 250 attendees.
 
@@ -78,12 +78,12 @@ Project: Weekly homework and office hours
 Community Services
 ==================
 
-_**Quantitative Trading Club**_ \
+[_**Quantitative Trading Club**_](https://www.notion.so/quantitativetradingclub/Quantitative-Trading-Club-71a6625b95a144799f04729db7e4e79c) \
 Position: President and Co-founder\
 Project: UIC's first quantitative finance group\
 Project: Bloomberg Challenge, CME Challenge, and UBS Hackathon.\
 Project: Seminars on derivative pricing and statistical estimation of
-market factors.\
+market factors.
 
 Honors, Awards & Scholarships
 =============================
