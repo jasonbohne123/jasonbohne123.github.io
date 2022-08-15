@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,25 +13,25 @@ redirect_from:
 Education
 =========
 
-**Ph.D.,** **Applied Mathematics and Statistics**\
-Stony Brook University
+_**Ph.D.,** **Applied Mathematics and Statistics**_\
+_**Stony Brook University**_
 
-**Relevant Coursework:**\
+_Relevant Coursework:_\
 Probability, Portfolio Optimization, Computational Finance, Stochastic
 Calculus, Mathematics of High Frequency Finance (Matrix Analysis),
 Machine Learning in Quantitative Finance
 
-**Activities:** Information Geometry and Machine Learning Seminar,
+_Activities:_ Information Geometry and Machine Learning Seminar,
 Computational Geometry Research Group
 
-**B.Sc.,** **Mathematics**\
-University of Illinois at Chicago, Illinois, USA
+_**B.Sc.,** **Mathematics**_\
+_**University of Illinois at Chicago **_
 
-**Undergraduate Project:** [An Analysis of Derivative Pricing
+_Undergraduate Project:_ [An Analysis of Derivative Pricing
 Methods](https://github.com/jasonbohne123/Derivative_Pricing_Methods)\
 
 
-**Relevant Coursework:**\
+_Relevant Coursework:_\
 Statistics, Linear Algebra, Numerical Analysis, Applied Differential
 Equations, Game Theory, Real and Complex Analysis, Combinatorics,
 Abstract Algebra
@@ -39,7 +39,7 @@ Abstract Algebra
 Professional Experience
 =======================
 
-**Muwazana Trading**\
+_**Muwazana Trading**_\
 Position: Quantitative Researcher\
 Projects: Short-term realized volatility model using the FFT.\
 Projects: Research pipeline to generate statistical features off trade
@@ -48,13 +48,13 @@ Projects: Derivatives pricing and risk management tool to manage
 inventory risk.
 
 
-**Department of Applied Mathematics and Statistics**\
+_**Department of Applied Mathematics and Statistics**_\
 Position: Database Developer\
 Project: High-frequency trade and quote database using clickhouse and
 docker.
 
 
-**Alpaca Securities**\
+_**Alpaca Securities**_\
 Position: Content Research\
 Project: API tutorials on algorithmic trading and market data.\
 Project: Community events that attracted over 250 attendees.
@@ -63,22 +63,22 @@ Project: Community events that attracted over 250 attendees.
 Academic Experience
 ===================
 
-**Department of Applied Mathematics and Statistics** \
-**Stony Brook University**\
+_**Department of Applied Mathematics and Statistics**_ \
+_**Stony Brook University**_\
 Position: Teaching Assistant for Applied Mathematics in Modern
 Technology\
 Responsibilities: Weekly quizzes, office hours, and lectures
 
 
-**Department of Mathematics**\
-**University of Illinois at Chicago**\
+_**Department of Mathematics**\
+**University of Illinois at Chicago**_\
 Position: Teaching Assistant for Calculus 3\
 Project: Weekly homework and office hours
 
 Community Services
 ==================
 
-**Quantitative Trading Club** \
+_**Quantitative Trading Club**_ \
 Position: President and Co-founder\
 Project: UIC's first quantitative finance group\
 Project: Bloomberg Challenge, CME Challenge, and UBS Hackathon.\
