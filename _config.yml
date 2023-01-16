@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jason Bohne"
   avatar           : "profile.jpg"
-  bio              : "Applied Math & Stat Ph.D. "
+  bio              : "Applied Statistics and Machine Learning to High Frequency Finance"
   location         : "Stony Brook, NY"
   employer         :
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : "jasonbohne123"
   google_plus      :
   keybase          :
-  instagram        : "jasonbohne1"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jasonbohne822"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jason_bohne"
+  twitter          :
   vine             :
   weibo            :
   xing             :
