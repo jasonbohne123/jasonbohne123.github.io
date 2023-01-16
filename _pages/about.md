@@ -12,8 +12,10 @@ redirect_from:
 
 Hey, I'm Jason. Currently I am a second year Ph.D. student in the Department of Applied Mathematics and Statistics here at Stony Brook University. I'm advised by [Prof. Pawel Polak](https://sites.google.com/view/pawelpolak)  where we work on the intersection of Applied Statistics and Machine Learning to High Frequency Finance. 
 
-More specifically my current research focuses on nonparametric learning in high freqency financial time series. This leads me to work across a variety of fields including: nonparametric statistics, supervised learning, convex optimization, and market microstructure. I am a strong believer in the importance of well-written software in research and utilize Python as my primary language.
+More specifically my current research focuses on nonparametric learning in high freqency financial time series. This leads me to work across a variety of fields including: nonparametric statistics, supervised learning, optimization and time series. The goal of my research is to develop new methods for learning for applications in both quantitative finance and big data.
 
-For more about my research, please visit my [research page](/research/). When I can I upload current writing and software to the [writing](/writing/) and [software](/software/) pages.
+For more about my research, please visit my [research page](/research/). I keep a blog where I write about my research and other topics that interest me which you can find [here](/writing/). 
+
+I am a strong believer in open science and reproducible research. You can find my code along with some software I have written [here](/software/).
 
 To learn more about me, please see my [CV](/cv/).
