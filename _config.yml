@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Bohne"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Applied Statistics and Machine Learning to High Frequency Finance"
   location         : "Stony Brook, NY"
   employer         :
