@@ -16,6 +16,6 @@ More specifically my current research focuses on nonparametric learning in high 
 
 For more about my research, please visit my [research page](/research/). I keep a blog where I write about my research and other topics that interest me which you can find [here](/writing/). 
 
-I am a strong believer in open science and reproducible research. You can find my code along with some software I have written [here](/software/).
+I am a strong believer in writing practical and lasting code for research. You can find code  I have written for a variety of past and current projects [here](/software/).
 
 To learn more about me, please see my [CV](/cv/).
