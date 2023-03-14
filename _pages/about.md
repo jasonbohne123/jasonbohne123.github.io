@@ -18,4 +18,4 @@ For more about my research, please visit my [research page](/research/). I keep 
 
 I am a strong believer in writing practical and lasting code for research. You can find code  I have written for a variety of past and current projects [here](/software/).
 
-To learn more about me, please see my [CV](/cv/).
+To learn more about me, please see my [CV](/files/Jason_Bohne_CV.pdf)
