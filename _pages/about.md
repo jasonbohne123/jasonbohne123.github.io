@@ -16,4 +16,4 @@ My current research focuses on nonparametric learning in high freqency financial
 
 I am a strong believer in writing practical and lasting code for research. You can find code  I have written for a variety of current and past projects on my [software page](/software/). I also keep a blog where I write informally about topics that interest me, which you can find [here](/year-archive/). 
 
-Before I joined Stony Brook, I graduated with a B.Sc in Mathematics from the University of Illinois at Chicago. Find my full CV [here](/files/Jason_Bohne_CV.pdf)
+Before I joined Stony Brook, I graduated with a B.Sc in Mathematics from the University of Illinois at Chicago. Find my full CV [here](/files/Jason_Bohne_New_CV.pdf).
