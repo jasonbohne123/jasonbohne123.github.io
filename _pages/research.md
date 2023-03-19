@@ -20,14 +20,12 @@ author_profile: true
 
 ### Technical Reports
 
-[1] Statistical Inference of Hidden Markov Models on High Frequency Quote Data [pdf](/files/si_tr.pdf)
+[1] Jason Bohne. [Statistical Inference of Hidden Markov Models on High Frequency Quote Data](/files/si_tr.pdf)
 
-  *Jason Bohne*
 
-[2] Multiple Kernel Learning on the Limit Order Book  [pdf](/files/mkl_tr.pdf)
+[2] Jason Bohne, Jarryd Sculley, and Paul Vespe. [Multiple Kernel Learning on the Limit Order Book](/files/mkl_tr.pdf)
 
- *Jason Bohne, Jarryd Sculley, and Paul Vespe*
 
-[3] Mean Variance Optimization using Elastic Net Penalty [pdf](/files/mvo_tr.pdf)
+[3] Jason Bohne and Jarryd Sculley. [Mean Variance Optimization using Elastic Net Penalty](/files/mvo_tr.pdf)
 
 *Jason Bohne and Jarryd Sculley*
