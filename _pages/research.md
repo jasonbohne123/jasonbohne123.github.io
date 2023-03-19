@@ -27,5 +27,3 @@ author_profile: true
 
 
 [3] Jason Bohne and Jarryd Sculley. [Mean Variance Optimization using Elastic Net Penalty](/files/mvo_tr.pdf)
-
-*Jason Bohne and Jarryd Sculley*
