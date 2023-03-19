@@ -2,7 +2,10 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "Software"
+    url: /software/
         
-  - title: "Writing"
+  - title: "Blog"
     url: /year-archive/
     
