@@ -27,7 +27,7 @@ Fall - Central Park, New York City - 2022
 <img src="/images/fam_nyc.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
-Family - New York City - 2022
+Family Visits - New York City - 2022
 </p>
 
 
