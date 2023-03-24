@@ -15,7 +15,7 @@ An ongoing visual collection of enjoyable moments in my life.
 
 <p>
     <img src="/images/arizona.jpg"  alt="drawing"  width="400">
-    <em>Sedona, Arizona- 2021</em>
+    <em> Hiking - Sedona, Arizona - 2021</em>
 </p>
 
 <p>
@@ -25,4 +25,6 @@ An ongoing visual collection of enjoyable moments in my life.
 
 <p>
     <img src="/images/calnques.jpg" alt="drawing"   width="400">
-    <em>Pa - 2021</em>
+    <em>Hiking the Calanques - Marseille, France - 2022</em>
+
+</p>
