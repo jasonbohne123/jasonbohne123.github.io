@@ -8,7 +8,7 @@ author_profile: true
 An ongoing visual collection of enjoyable moments in my life.
 
 <p align = "center">
-<img src="/images/math_booksho.jpg" alt="drawing" width="400">
+<img src="/images/math_bookshop.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
 Math Books on Shelter Island, Long Island - 2022
