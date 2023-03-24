@@ -7,49 +7,78 @@ author_profile: true
 
 An ongoing visual collection of enjoyable moments in my life.
 
+
+
 <p align = "center">
 <img src="/images/marseilles.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+Reading Linear Algebra in Action - Marseille, France - 2022
 </p>
 
 
-<p>
-    <img src="/images/marseilles.jpg" alt="drawing" width="400">
-   <em>            Reading Linear Algebra in Action - Marseille, France - 2022</em>
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Hiking - Sedona, Arizona - 2021
 </p>
 
 
-<p>
-    <img src="/images/arizona.jpg"  alt="drawing"  width="400">
-    <em>            Hiking - Sedona, Arizona - 2021</em>
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Long Island Beach with Lillian - 2022
 </p>
 
-<p>
-    <img src="/images/beach.jpg" alt="drawing"  width="400">
-    <em>            Long Island Beach with Lillian - 2022</em>
+
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Hiking the Calanques - Marseille, France - 2022
 </p>
 
-<p>
-    <img src="/images/calnques.jpg" alt="drawing"   width="400">
-    <em>            Hiking the Calanques - Marseille, France - 2022</em>
+
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Fall - Central Park, New York City - 2022
 </p>
 
-<p>
-    <img src="/images/central_park.jpg" alt="drawing"  width="400">
-    <em>            Fall - Central Park, New York City - 2022</em>
+
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+ Reading Linear Algebra in Action - Marseille, France - 2022
 </p>
 
-<p>
-    <img src="/images/chicago.jpg" alt="drawing"  width="400">
-    <em>            Downtown Chicago - Chicago - 2021</em>
+
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Chicago Skyline - Chicago - 2021
 </p>
 
-<p>
-    <img src="/images/chicago2.jpg" alt="drawing"  width="400">
-    <em>            Chicago Skyline - Chicago - 2021</em>
+
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
 </p>
+<p align = "center">
+Downtown Chicago - Chicago - 2021
+</p>
+
+
+
+
+
+
+
+
 
 
 
