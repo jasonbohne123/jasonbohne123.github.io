@@ -9,7 +9,7 @@ An ongoing visual collection of enjoyable moments in my life.
 
 
 <figure>
-  <img src="/images/marseilles.jpg" alt="drawing" width="400">
+  <img src="/images/marseilles.jpg" alt="drawing" width="400" height="250">
   <figcaption>Reading Linear Algebra in Action - Marseille, France - 2022</figcaption>
 </figure>
 
