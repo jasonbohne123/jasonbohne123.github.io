@@ -100,7 +100,7 @@ Hiking - Sedona, Arizona - 2021
 
 
 <p align = "center">
-<img src="/images/chicago.jpg" alt="drawing" width="400">
+<img src="/images/chicago2.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
 Chicago Skyline - Chicago - 2021
@@ -108,7 +108,7 @@ Chicago Skyline - Chicago - 2021
 
 
 <p align = "center">
-<img src="/images/chicago2.jpg" alt="drawing" width="400">
+<img src="/images/chicago.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
 Downtown Chicago - Chicago - 2021
