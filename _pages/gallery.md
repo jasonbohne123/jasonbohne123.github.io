@@ -7,9 +7,12 @@ author_profile: true
 
 An ongoing visual collection of enjoyable moments in my life.
 
-
-![example 1{caption=Example caption - here's a picture from my recent trip to Wyoming.}](/images/marseilles.jpg)
-
+<p align = "center">
+<img src="/images/marseilles.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 
 <p>
