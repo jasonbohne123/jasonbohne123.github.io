@@ -39,12 +39,21 @@ Family Visits - New York City - 2022
 Manhattan Skyline - New York City - 2022
 </p>
 
+
+<p align = "center">
+<img src="/images/det_books.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Statistics Book - Detroit, Michigan - 2022
+</p>
+
 <p align = "center">
 <img src="/images/london.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
-London from the River - London, U.K. - 2022
+London, U.K. - 2022
 </p>
+
 
 
 
@@ -53,7 +62,7 @@ London from the River - London, U.K. - 2022
 <img src="/images/lyon.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
-Evening in Lyon - Lyon, France - 2022
+Lyon, France - 2022
 </p>
 
 
@@ -95,7 +104,7 @@ Upper Peninsula of Michigan - 2021
 <img src="/images/arizona.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
-Hiking - Sedona, Arizona - 2021
+Sedona, Arizona - 2021
 </p>
 
 
