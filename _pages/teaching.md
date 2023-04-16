@@ -7,7 +7,7 @@ author_profile: true
 
 Courses I have assisted in the development of:
 
- - AMS 524: Computational Data Analysis - Summer 2023
+ - [AMS 524: Computational Data Analysis](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams524.php) - Summer 2023
 
 Courses I have been lead teaching assistant for (reverse chronological order):
 

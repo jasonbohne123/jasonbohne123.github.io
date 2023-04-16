@@ -7,6 +7,14 @@ author_profile: true
 
 An ongoing visual collection of enjoyable moments in my life.
 
+
+<p align = "center">
+<img src="/images/princeton.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Princeton Fintech and Quant Conference, Princeton -2023
+</p>
+
 <p align = "center">
 <img src="/images/math_bookshop.jpg" alt="drawing" width="400">
 </p>
