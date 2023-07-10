@@ -7,6 +7,19 @@ author_profile: true
 
 An ongoing visual collection of enjoyable moments in my life.
 
+<p align = "center">
+<img src="/images/yankees.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+First Yankees Game - New York City - 2023
+</p>
+
+<p align = "center">
+<img src="/images/met.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Metropolitan Museum of Art with Lillian - New York City - 2023
+</p>
 
 <p align = "center">
 <img src="/images/princeton.jpg" alt="drawing" width="400">
