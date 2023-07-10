@@ -22,6 +22,13 @@ Metropolitan Museum of Art with Lillian - New York City - 2023
 </p>
 
 <p align = "center">
+<img src="/images/columbia.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Bloomberg-Columbia Machine Learning in Finance Workshop - 2023
+</p>
+
+<p align = "center">
 <img src="/images/princeton.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
