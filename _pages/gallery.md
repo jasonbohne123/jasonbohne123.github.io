@@ -8,7 +8,7 @@ author_profile: true
 An ongoing visual collection of enjoyable moments in my life.
 
 <p align = "center">
-<img src="/images/yankees".jpg alt="drawing" width="400">
+<img src="/images/yankees.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
 First Yankees Game - New York City - 2023
