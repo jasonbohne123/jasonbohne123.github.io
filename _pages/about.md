@@ -16,4 +16,5 @@ Broadly, the goal of my research is to engineer practical and scalable methods i
 
 I strongly believe in open-source software for maximizing the impact of academic research. You can find code  I have written for a variety of current and past projects on my [software page](/software/). I also keep a blog where I write informally about topics that interest me, which you can find [here](/year-archive/). 
 
-For the summer of 2023, I am interning in the C.T.O. office of Bloomberg L.P. with my project focus centered on applications of my research. Before I joined Stony Brook, I graduated with a B.Sc in Mathematics from the University of Illinois at Chicago. Find my full CV [here](/files/Jason_Bohne_New_CV.pdf).
+
+I am currently an intern for the Machine Learning Strategy Team in the CTO office of Bloomberg L.P. with my project focus centered on applications of my research. Before I joined Stony Brook, I graduated with a B.Sc in Mathematics from the University of Illinois at Chicago. Find my full CV [here](/files/Jason_Bohne_New_CV.pdf).

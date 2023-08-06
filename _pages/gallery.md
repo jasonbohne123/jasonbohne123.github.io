@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 An ongoing visual collection of enjoyable moments in my life.
+<p align = "center">
+<img src="/images/fam_office.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Bloomberg with Family - New York City - 2023
+</p>
+
+<p align = "center">
+<img src="/images/boat.jpg" alt="drawing" width="400">
+</p>
+<p align = "center">
+Hudson River Cruise - New York City - 2023
+</p>
+
 
 <p align = "center">
 <img src="/images/yankees_game.jpg" alt="drawing" width="400">
