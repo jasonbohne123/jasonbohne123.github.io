@@ -29,13 +29,6 @@ First Yankees Game - New York City - 2023
 </p>
 
 <p align = "center">
-<img src="/images/met.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Metropolitan Museum of Art with Lillian - New York City - 2023
-</p>
-
-<p align = "center">
 <img src="/images/columbia.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
@@ -122,15 +115,6 @@ Reading Linear Algebra in Action - Marseille, France - 2022
 <p align = "center">
 Hiking the Calanques - Marseille, France - 2022
 </p>
-
-
-<p align = "center">
-<img src="/images/beach.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Long Island Beach with Lillian - 2022
-</p>
-
 
 <p align = "center">
 <img src="/images/michigan.jpg" alt="drawing" width="400">
