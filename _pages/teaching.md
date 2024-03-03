@@ -5,13 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Courses I have co-instucted:
+
+- AMS 512: Capital Markets & Portfolio Theory - Spring 2024
+
 Courses I have assisted in the development of:
 
  - [AMS 524: Computational Data Analysis](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams524.php) - Summer 2023
 
 Courses I have been lead teaching assistant for (reverse chronological order):
 
-- [AMS 512: Capital Markets & Portfolio Theory](https://www3.ams.stonybrook.edu/~frey/Instruction/Spring2023/AMS512/index.html) - Spring 2023
+- AMS 511: Foundation of Quantitative Finance - Fall 2023
+
+- AMS 512: Capital Markets & Portfolio Theory - Spring 2023
 
 - AMS 511: Foundation of Quantitative Finance - Fall 2022
 

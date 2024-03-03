@@ -12,7 +12,7 @@ redirect_from:
 
 Hey, I'm Jason. I am a third year Ph.D. student in the Department of Applied Mathematics and Statistics here at Stony Brook University. I'm advised by [Prof. Pawel Polak](https://sites.google.com/view/pawelpolak)  where we work on the intersection of Applied Statistics and Machine Learning to High Frequency Finance.
 
-Broadly, the goal of my research is to engineer practical and scalable methods in machine learning that are  well-formulated within statistics and optimization. This leads me to work across a variety of fields including: regression, optimization, structured linear algebra, algorithm design, statistical learning, and machine learning. Specifically I am working to design robust and efficient learning algorithms for financial time series. For more, see my [research page](/research/). 
+Broadly, the goal of my research is to engineer practical and scalable methods in machine learning that are  well-formulated within statistics and optimization. This leads me to work across a variety of fields including: regret minimization in online learning, algorithms for bilevel/nonconvex optimization, and statistical/representation learning.  Specifically I am working to design robust and efficient learning algorithms for financial time series. For more, see my [research page](/research/). 
 
 I strongly believe in open-source software for maximizing the impact of academic research. You can find code  I have written for a variety of current and past projects on my [software page](/software/). I also keep a blog where I write informally about topics that interest me, which you can find [here](/year-archive/). 
 
