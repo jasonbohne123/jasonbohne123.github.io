@@ -20,14 +20,6 @@ Bloomberg with Family - New York City - 2023
 Hudson River Cruise - New York City - 2023
 </p>
 
-
-<p align = "center">
-<img src="/images/yankees_game.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-First Yankees Game - New York City - 2023
-</p>
-
 <p align = "center">
 <img src="/images/columbia.jpg" alt="drawing" width="400">
 </p>
@@ -59,23 +51,6 @@ Fall - Central Park, New York City - 2022
 
 
 <p align = "center">
-<img src="/images/fam_nyc.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Family Visits - New York City - 2022
-</p>
-
-
-
-<p align = "center">
-<img src="/images/peak.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Manhattan Skyline - New York City - 2022
-</p>
-
-
-<p align = "center">
 <img src="/images/det_books.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
@@ -89,66 +64,12 @@ Statistics Book - Detroit, Michigan - 2022
 London, U.K. - 2022
 </p>
 
-
-
-
-
-<p align = "center">
-<img src="/images/lyon.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Lyon, France - 2022
-</p>
-
-
 <p align = "center">
 <img src="/images/marseilles.jpg" alt="drawing" width="400">
 </p>
 <p align = "center">
 Reading Linear Algebra in Action - Marseille, France - 2022
 </p>
-
-
-<p align = "center">
-<img src="/images/calnques.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Hiking the Calanques - Marseille, France - 2022
-</p>
-
-<p align = "center">
-<img src="/images/michigan.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Upper Peninsula of Michigan - 2021
-</p>
-
-
-
-
-<p align = "center">
-<img src="/images/arizona.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Sedona, Arizona - 2021
-</p>
-
-
-<p align = "center">
-<img src="/images/chicago2.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Chicago Skyline - Chicago - 2021
-</p>
-
-
-<p align = "center">
-<img src="/images/chicago.jpg" alt="drawing" width="400">
-</p>
-<p align = "center">
-Downtown Chicago - Chicago - 2021
-</p>
-
 
 
 

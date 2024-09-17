@@ -16,14 +16,8 @@ author_profile: true
 {% endfor %}
 
 
-### Working Papers
+### Publications
 
-### Technical Reports
-
-[1] Jason Bohne. [Statistical Inference of Hidden Markov Models on High Frequency Quote Data](/files/si_tr.pdf)
+[1] Jason Bohne, David Rosenberg, Gary Kazantsev, and Pawel Polak. [Online Nonconvex Bilevel Optimization with Bregman Divergences](https://arxiv.org/pdf/2409.10470v1)
 
 
-[2] Jason Bohne, Jarryd Sculley, and Paul Vespe. [Multiple Kernel Learning on the Limit Order Book](/files/mkl_tr.pdf)
-
-
-[3] Jason Bohne and Jarryd Sculley. [Mean Variance Optimization using Elastic Net Penalty](/files/mvo_tr.pdf)
