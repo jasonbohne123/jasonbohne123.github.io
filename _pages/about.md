@@ -12,7 +12,7 @@ redirect_from:
 ### About Me
 Hello, I’m Jason Bohne, a fourth-year Ph.D. student in the Department of Applied Mathematics and Statistics at Stony Brook University, advised by Professor [Pawel Polak](https://sites.google.com/view/pawelpolak). Prior to Stony Brook, I completed a B.S. in Mathematics at the University of Illinois at Chicago from 2018 to 2021, advised by Professor Jie Yang.
 
-My main research interests are (i) **bilevel optimization** (e.g., hyperparameter optimization, meta-learning, and reinforcement learning from human feedback), and  (ii) **online learning** (e.g., sequential optimization, adversarial learning, and regret minimizing algorithms). Recently I've been interested in the intersection of the aforementioned which is the novel research direction of online bilevel optimization.  
+My main research interests are (i) **bilevel optimization** (e.g., hyperparameter optimization, meta-learning, and reinforcement learning from human feedback), and  (ii) **online learning** (e.g., sequential optimization, adversarial learning, and regret minimizing algorithms). Recently I've been interested in the intersection of the aforementioned which is the novel research direction of **online bilevel optimization**.  
 
 I have been fortunate enough to intern with the Machine Learning Strategy Team in the CTO office at Bloomberg L.P., where  I  study how bilevel optimization and online learning can be applied to a variety of (financial) machine learning tasks. 
 
@@ -27,6 +27,6 @@ I have been fortunate enough to intern with the Machine Learning Strategy Team i
 
 - \[**Teaching**\] 8/2024 Lead Teaching Assistant for [AMS 511: Foundation of Quantitative Finance](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams511.php)
 
--\[**Award**\] 5/2024 Awarded Excellence in Graduate Teaching Doctoral Student in Applied Mathematics and Statistics Department at Stony Brook University.
+- \[**Award**\] 5/2024 Awarded Excellence in Graduate Teaching Doctoral Student in Applied Mathematics and Statistics Department at Stony Brook University.
 
 - \[**Teaching**\] 1/2024 Instructor for [AMS 512: Capital Markets & Portfolio Theory](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams512)
