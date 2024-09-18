@@ -25,7 +25,7 @@ I have been fortunate enough to intern with the Machine Learning Strategy Team i
 
 - \[**Preprint**\] 9/2024 Our Preprint [Online Nonconvex Bilevel Optimization with Bregman Divergences](https://arxiv.org/pdf/2409.10470v1) is available on arXiv. 
 
-- \[**Teaching**\] 8/2024 Lead Teaching Assistant for [AMS 511: Foundation of Quantitative Finance](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams511.php)
+- \[**Teaching**\] 8/2024 Teaching Assistant for [AMS 511: Foundation of Quantitative Finance](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams511.php)
 
 - \[**Award**\] 5/2024 Awarded Excellence in Graduate Teaching Doctoral Student in Applied Mathematics and Statistics Department at Stony Brook University.
 
