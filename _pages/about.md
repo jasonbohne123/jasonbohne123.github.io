@@ -21,14 +21,14 @@ I have been fortunate enough to intern with the Machine Learning Strategy Team i
 
 - \[**Talk**\] 12/2024 I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at [NeurIPS](https://neurips.cc/) 2024. See you in Vancouver!
 
-- \[**Talk**\] 10/2024 I'll be giving a talk on online bilevel optimization at the [Third Workshop on Recent Trends in Machine Learning & Risk Management](https://uryasev.ams.stonybrook.edu/index.php/workshop-2024/) at Stony Brook University
+- \[**Talk**\] 10/2024 I'll be giving a talk on online bilevel optimization at the [Third Workshop on Recent Trends in Machine Learning & Risk Management](https://uryasev.ams.stonybrook.edu/index.php/workshop-2024/) at Stony Brook University.
 
-- \[**Talk**\] 9/2024 I'll be presenting a poster at the [10th Annual Bloomberg-Columbia Machine Learning in Finance Conference](https://cfe.columbia.edu/events/10th-annual-bloomberg-columbia-machine-learning-finance-conference-2024)
+- \[**Talk**\] 9/2024 I'll be presenting a poster at the [10th Annual Bloomberg-Columbia Machine Learning in Finance Conference](https://cfe.columbia.edu/events/10th-annual-bloomberg-columbia-machine-learning-finance-conference-2024).
 
 - \[**Preprint**\] 9/2024 Our Preprint [Online Nonconvex Bilevel Optimization with Bregman Divergences](https://arxiv.org/pdf/2409.10470v1) is available on arXiv. 
 
-- \[**Teaching**\] 8/2024 Teaching Assistant for [AMS 511: Foundation of Quantitative Finance](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams511.php)
+- \[**Teaching**\] 8/2024 Teaching Assistant for [AMS 511: Foundation of Quantitative Finance](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams511.php).
 
-- \[**Award**\] 5/2024 Awarded Excellence in Graduate Teaching Doctoral Student in Applied Mathematics and Statistics Department at Stony Brook University.
+- \[**Award**\] 5/2024 Awarded Excellence in Graduate Teaching Doctoral Student in Applied Mathematics and Statistics Department at Stony Brook University for teaching [AMS 512: Capital Markets & Portfolio Theory](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams512).
 
-- \[**Teaching**\] 1/2024 Instructor for [AMS 512: Capital Markets & Portfolio Theory](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams512)
+- \[**Teaching**\] 1/2024 Instructor for [AMS 512: Capital Markets & Portfolio Theory](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams512).

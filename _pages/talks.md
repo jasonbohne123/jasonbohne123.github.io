@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Upcoming Talks
-- \[**Talk**\] 12/2024 I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at [NeurIPS](https://neurips.cc/) 2024. See you in Vancouver!
+- **12/2024**: I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at [NeurIPS](https://neurips.cc/) 2024. See you in Vancouver!
 
 
 
