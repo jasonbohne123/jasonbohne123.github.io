@@ -18,7 +18,7 @@ author_profile: true
 For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=DX0kPjoAAAAJ&view_op=list_works&gmla=ALUCkoUYsqxfM1WlQEHXo2zSyrAxZnhiD69gdpjDobw2O7sMbUF1hHhEasXON9IL1ikvW0iywR5HiXsX9N4G1phE).
 
 ### Preprints:
-- [Online Nonconvex Bilevel Optimization with Bregman Divergences](https://arxiv.org/pdf/2409.10470v1). **Jason Bohne**, David Rosenberg, Gary Kazantsev, and Pawel Polak. 2024.
+- [Online Nonconvex Bilevel Optimization with Bregman Divergences](https://arxiv.org/pdf/2409.10470v1). **Jason Bohne**, David Rosenberg, Gary Kazantsev, and Pawel Polak. *16th International OPT Workshop on Optimization for Machine Learning at NeurIPS*, 2024.
 
 
 

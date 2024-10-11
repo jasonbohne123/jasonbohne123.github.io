@@ -19,7 +19,7 @@ I have been fortunate enough to intern with the Machine Learning Strategy Team i
 
 ### Recent News in 2024!
 
-- \[**Talk**\] 12/2024 I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at NeurIPS 2024. See you in Vancouver!
+- \[**Talk**\] 12/2024 I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at [NeurIPS](https://neurips.cc/) 2024. See you in Vancouver!
 
 - \[**Talk**\] 10/2024 I'll be giving a talk on online bilevel optimization at the [Third Workshop on Recent Trends in Machine Learning & Risk Management](https://uryasev.ams.stonybrook.edu/index.php/workshop-2024/) at Stony Brook University
 
