@@ -16,7 +16,7 @@ My main research interests are (i) **bilevel optimization** (e.g., hyperparamete
 
 I have been fortunate enough to intern with the Machine Learning Strategy Team in the CTO office at Bloomberg L.P., where  I  study how bilevel optimization and online learning can be applied to a variety of (financial) machine learning tasks. 
 
-In a previous chapter of my life, I was one of the first interns at [Alpaca Markets](https://alpaca.markets/) where I organized two conferences on algorithmic trading and [market data](https://www.youtube.com/watch?v=kRQ72kovnlY&t=197s) as well as their podcast Fintech Underground. During my undegradaute years, I co-founded and was the president of the first quantitative finance club [(QTC)](https://www.linkedin.com/company/quantitative-trading-club/) at UIC.
+In a previous chapter of my life, I was one of the first interns at [Alpaca Markets](https://alpaca.markets/) where I organized two conferences on algorithmic trading and [market data](https://youtu.be/kRQ72kovnlY?si=-cE76Izm0tBCltBM&t=1) as well as their podcast Fintech Underground. During my undergraduate years, I co-founded and was the president of the first quantitative finance club [(QTC)](https://www.linkedin.com/company/quantitative-trading-club/) at UIC.
 
 
 ### Recent News in 2024!
