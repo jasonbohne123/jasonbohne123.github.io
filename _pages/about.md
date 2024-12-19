@@ -10,7 +10,7 @@ redirect_from:
 
 
 ### About Me
-Hello, I’m Jason Bohne, a fourth-year Ph.D. student in the Department of Applied Mathematics and Statistics at Stony Brook University, advised by Professor [Pawel Polak](https://sites.google.com/view/pawelpolak). Prior to Stony Brook, I completed a B.S. in Mathematics at the University of Illinois at Chicago from 2018 to 2021, advised by Professor Jie Yang.
+Hello, I’m Jason Bohne, a fourth-year Ph.D. candidate in the Department of Applied Mathematics and Statistics at Stony Brook University, advised by Professor [Pawel Polak](https://sites.google.com/view/pawelpolak). Prior to Stony Brook, I completed a B.S. in Mathematics at the University of Illinois at Chicago from 2018 to 2021, advised by Professor Jie Yang. My expected graduation date is May 2026.
 
 My main research interests are (i) **bilevel optimization** (e.g., hyperparameter optimization, meta-learning, and reinforcement learning from human feedback), and  (ii) **online learning** (e.g., sequential optimization, adversarial learning, and regret minimizing algorithms). 
 Recently I've been interested in the intersection of the aforementioned which is the novel research direction of **online bilevel optimization**.  
@@ -22,6 +22,8 @@ In a previous chapter of my life, I was one of the first interns at [Alpaca Mark
 
 
 ### Recent News in 2024!
+
+- \[**News**\] 12/2024 I successfully completed my preliminary exam on "Online Bilevel Optimization for Machine Learning". Thanks to my wonderful committee!
 
 - \[**Talk**\] 12/2024 I'll be giving a poster on Online Nonconvex Bilevel Optimization with Bregman Divergences at the [16th International OPT Workshop on Optimization for Machine Learning](https://opt-ml.org/) at [NeurIPS](https://neurips.cc/) 2024. See you in Vancouver!
 
