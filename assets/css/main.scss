@@ -1,0 +1,183 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* =========================================================================
+   Custom restyle — MINIMAL DARK (willcb.com-inspired)
+   ========================================================================= */
+$d-bg:      #0d0f12;  // near-black page
+$d-surface: #14171c;  // code / raised
+$d-border:  #24282f;  // faint hairlines
+$d-text:    #c9d1d9;  // soft light text
+$d-heading: #f0f3f6;  // headings / strong
+$d-muted:   #7d8590;  // secondary text
+$d-accent:  #7aa2d6;  // muted blue accent
+$d-mono:    "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+html, body, .page, #main, .initial-content {
+  background: $d-bg;
+  color: $d-text;
+}
+body {
+  font-family: $d-mono;
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title, .author__name {
+  font-family: $d-mono;
+  color: $d-heading;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.page__title { font-size: 1.4em; }
+.page__content h3 { font-size: 1.05em; margin-top: 2em; }
+strong, b { color: $d-heading; }
+
+/* --- Masthead: blends into the page, plain text nav --- */
+.masthead {
+  position: static;
+  background: $d-bg;
+  border-bottom: 1px solid $d-border;
+  box-shadow: none;
+  animation: none;
+}
+.masthead__menu-item a {
+  color: $d-muted !important;
+  font-weight: 400;
+  transition: color 0.12s ease;
+}
+.masthead__menu-item a:hover { color: $d-heading !important; text-decoration: underline; }
+.masthead__menu-item--lg a { color: $d-heading !important; font-weight: 700; }
+.greedy-nav { background: transparent; }
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after { background: $d-text; }
+.greedy-nav button { color: $d-text; }
+
+/* --- Page title: simple, no heavy rule --- */
+.page__title {
+  border-bottom: 1px solid $d-border;
+  padding-bottom: 0.3em;
+}
+
+/* --- Links: muted, underlined (minimal) --- */
+a, .page__content a, .archive__item a, .author__urls a { color: $d-accent; }
+a:hover, .page__content a:hover {
+  color: $d-heading;
+  text-decoration: underline;
+}
+
+/* --- Author sidebar: small, clean avatar --- */
+.author__avatar img {
+  border-radius: 8px;
+  border: 1px solid $d-border;
+  box-shadow: none;
+  max-width: 170px;
+}
+.author__name { font-weight: 700; color: $d-heading; }
+.author__bio  { color: $d-muted; }
+.author__urls-wrapper .social-icons li { color: $d-muted; }
+.author__urls-wrapper .social-icons i { color: $d-muted; }
+.author__urls.social-icons a { color: $d-text; }
+
+/* --- Hide the non-functional Follow button (willcb-style declutter) --- */
+.author__urls-wrapper > .btn { display: none; }
+
+/* --- Code, tables, blockquotes on dark --- */
+code, tt {
+  background: $d-surface;
+  color: $d-heading;
+  border: 1px solid $d-border;
+}
+pre, div.highlighter-rouge, figure.highlight {
+  background: $d-surface;
+  color: $d-heading;
+  border: 1px solid $d-border;
+}
+blockquote { border-left: 3px solid $d-border; color: $d-muted; }
+table { color: $d-text; }
+th { background: $d-surface; }
+td, th { border-color: $d-border; }
+hr { border-color: $d-border; }
+
+/* --- Footer: quiet --- */
+.page__footer {
+  background: $d-bg;
+  color: $d-muted;
+  border-top: 1px solid $d-border;
+}
+.page__footer a { color: $d-muted; }
+.page__footer-follow .social-icons i { color: $d-muted; }
+
+/* --- Contact moved to the footer: hide the sidebar link/location list --- */
+.author__urls-wrapper { display: none; }
+.page__footer-follow { padding: 1em 0 0.4em; }
+.page__footer-follow .social-icons { text-align: center; }
+.page__footer-follow .social-icons li {
+  display: inline-block;
+  margin: 0 0.55em;
+  border: 0;
+}
+.page__footer-follow .social-icons a { color: $d-muted; font-size: 0.85em; }
+.page__footer-follow .social-icons a:hover { color: $d-heading; text-decoration: underline; }
+.page__footer-copyright { color: $d-muted; font-size: 0.8em; text-align: center; }
+
+/* --- Publication list (only lists on the site) --- */
+.page__content ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.4em 0 1.6em;
+}
+.page__content li {
+  margin: 0 0 1.3em 0;
+  padding-left: 0;
+  font-size: 13px;
+  line-height: 1.65;
+}
+.page__content li strong { color: #f0f3f6; }
+.page__content li em { color: #9aa4b2; font-style: italic; }
+.page__content h3 {
+  margin-top: 2.2em;
+  margin-bottom: 0.9em;
+}

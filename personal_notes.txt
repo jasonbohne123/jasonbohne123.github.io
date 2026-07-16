@@ -1,0 +1,5 @@
+Personal Notes for website
+
+- To add a new page go to data/navigation.yml and add a new page
+- Create a markdown file in the pages folder
+- Create a respective header on markdown file

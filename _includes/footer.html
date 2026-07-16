@@ -1,0 +1,26 @@
+{% include base_path %}
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>
+    {% endif %}
+    {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+    {% endif %}
+    {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+    {% endif %}
+    {% if site.author.substack %}
+      <li><a href="{{ site.author.substack }}">Substack</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
