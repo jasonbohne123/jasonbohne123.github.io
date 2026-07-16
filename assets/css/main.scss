@@ -189,17 +189,25 @@ hr { border-color: $d-border; }
    ========================================================================= */
 @media (max-width: 1199px) {
   .sidebar.sticky { position: static; }
-  .author__avatar,
+
+  /* The <img> shares the .author__avatar class with its wrapper <div>, so
+     qualify by element: wrapper is a centered block, image is inline-block
+     (a block image would ignore text-align and snap left). */
+  div.author__avatar,
   .author__content {
     display: block;
     width: auto;
     padding: 0;
     text-align: center;
   }
-  .author__avatar { margin-bottom: 0.35em; }
-  .author__avatar img { max-width: 130px; }
+  div.author__avatar { margin-bottom: 0.35em; }
+  img.author__avatar { display: inline-block; max-width: 130px; }
   .sidebar .author__name { margin: 0.5em 0 0.1em; }
   .author__bio { margin: 0 0 0.6em; }
+
+  /* MM pins the footer with position:absolute; on mobile the wrapped contact
+     links overrun the reserved space and overlap content. Let it flow. */
+  .page__footer { position: relative; bottom: auto; margin-top: 2em; }
 }
 
 @media (max-width: 600px) {
